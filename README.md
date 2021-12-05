@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- Stole this from @CeesJol, pretty cool guy -->
 # Hi there! <img src="https://raw.githubusercontent.com/CeesJol/CeesJol/master/static/wave.gif" width="30px">
 
