@@ -9,12 +9,6 @@ My name is Neel Manglani and I am a Computer Science bachelor student at Delft U
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neel738&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Neel's GitHub Stats" />
 </a>
 
-## ✏️ Contact me
-
-Feel free to send me an email.  
-📧 [neel738@hotmail.com](mailto:neel738@hotmail.com)
-
-
 
 <!-- links to social media accounts -->
 
