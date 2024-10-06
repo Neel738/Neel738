@@ -6,7 +6,11 @@ My name is Neel Manglani and I am a Computer Science bachelor student at Delft U
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Neel738/Neel738">
-  <img align="center" src="https://www.ghs-neel738s-projects.vercel.app/api?username=Neel738&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true" alt="Neel's GitHub Stats" />
+  <img align="center" src="https://ghs-neel738s-projects.vercel.app/api?username=Neel738&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&hide=issues,stars&hide_rank=true" alt="Neel's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Neel738/Neel738"> 
+  <img align="center" src="https://ghs-neel738s-projects.vercel.app/api/top-langs/?username=Neel738&hide_progress=true&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=donut-vertical&include_all_commits=true" alt="Neel's GitHub Stats" />
 </a>
 
 
