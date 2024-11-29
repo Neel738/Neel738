@@ -3,15 +3,19 @@
 
 My name is Neel Manglani and I am a Computer Science bachelor student at Delft UT. I am experienced in full stack development. You can find me on [LinkedIn][3].
 
+<p align="center">
+  <img src="https://s01.flagcounter.com/count2/pFFI/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/"  alt="Visitor Counter" />
+</p>
+
 ## 📈 GitHub Stats
+
+
+
 
 <a href="https://github.com/Neel738/Neel738">
   <img align="center" src="https://ghs-neel738s-projects.vercel.app/api?username=Neel738&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&hide=issues,stars&hide_rank=true" alt="Neel's GitHub Stats" />
 </a>
 
-<p align="left">
-  <img src="https://s01.flagcounter.com/count2/pFFI/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/"  alt="Visitor Counter" />
-</p>
 
 
 
