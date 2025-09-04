@@ -1,7 +1,8 @@
 <!-- Stole this from @CeesJol, pretty cool guy -->
 # Hi there! <img src="https://raw.githubusercontent.com/CeesJol/CeesJol/master/static/wave.gif" width="30px">
 
-My name is Neel Manglani and I am a Computer Science bachelor student at Delft UT. I am experienced in full stack development. You can find me on [LinkedIn][3].
+yo, i build apps. kinda like boomer webmasters from the late 20th century.
+
 
 <p align="center">
   <img src="https://s01.flagcounter.com/count2/pFFI/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/"  alt="Visitor Counter" />
